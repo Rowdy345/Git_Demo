@@ -44,4 +44,13 @@ fun GreetingPreview() {
     Git_DemoTheme {
         Greeting("Android")
     }
+
+
+}
+
+
+@Composable
+fun HomeScreen1()
+{
+
 }

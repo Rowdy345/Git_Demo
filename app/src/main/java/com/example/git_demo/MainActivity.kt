@@ -54,3 +54,9 @@ fun HomeScreen1()
 {
 
 }
+
+@Composable
+fun MainScreen()
+{
+
+}

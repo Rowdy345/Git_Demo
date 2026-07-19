@@ -12,5 +12,8 @@ import androidx.compose.ui.Modifier
 fun ScreenDetails() {
     Column(Modifier.fillMaxSize(), Arrangement.Center) {
         Text("ScreenDetails")
+        Text("Pawan Pal")
+        Text("Android Deveoper")
+        Text("29")
     }
 }

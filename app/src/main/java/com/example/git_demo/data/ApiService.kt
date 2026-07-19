@@ -10,4 +10,6 @@ interface ApiService {
     suspend fun ch1()
 
     suspend fun ch2()
+
+    suspend fun ch3()
 }

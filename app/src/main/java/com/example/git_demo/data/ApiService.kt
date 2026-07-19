@@ -6,4 +6,6 @@ interface ApiService {
     )
 
     suspend fun bankdetails()
+
+    suspend fun ch1()
 }

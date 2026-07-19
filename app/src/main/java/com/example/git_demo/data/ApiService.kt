@@ -5,4 +5,5 @@ interface ApiService {
     suspend fun getdetails()
     suspend fun bankdetsils()
     suspend fun savedetails()
+    suspend fun savetwodetails()
 }
